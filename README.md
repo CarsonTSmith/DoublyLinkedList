@@ -4,7 +4,7 @@ Compiled under WSL2 Ubuntu with GCC's g++.
 
 g++ -std=c++11 -g -Wall -Werror main.cpp -o main
 
-Ran under Valgrind with no memory leaks detected.
+Run under Valgrind with no memory leaks detected.
 
 ```console
 carson@CarsonPC:/mnt/c/Projects/LinkedList$ valgrind --leak-check=yes ./main
