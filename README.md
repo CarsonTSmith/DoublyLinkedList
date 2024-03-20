@@ -1,6 +1,6 @@
 # DoublyLinkedList
 
-Compiled under WSL2 Ubuntu with GCC's g++.
+Compiled under WSL2 Ubuntu with GCC's g++.\n
 g++ -std=c++11 -g -Wall -Werror main.cpp -o main
 
 Ran under Valgrind with no memory leaks detected.
