@@ -2,7 +2,7 @@
 
 # Verified with Valgrind
 
-carson@CarsonPC:/mnt/c/Projects/LinkedList$ valgrind --leak-check=yes ./main
+`carson@CarsonPC:/mnt/c/Projects/LinkedList$ valgrind --leak-check=yes ./main
 ==17962== Memcheck, a memory error detector
 ==17962== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
 ==17962== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
@@ -18,4 +18,4 @@ carson@CarsonPC:/mnt/c/Projects/LinkedList$ valgrind --leak-check=yes ./main
 ==17962== All heap blocks were freed -- no leaks are possible
 ==17962==
 ==17962== For lists of detected and suppressed errors, rerun with: -s
-==17962== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==17962== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)`
